@@ -1857,3 +1857,4 @@ Split into 60 parts for better browsing
    1774. [Unconditional Truthfulness: Learning Unconditional Uncertainty of Large Language Models](emnlp_src/EMNLP_2025_Main_Papers_Part_60.md#Unconditional-Truthfulness-Learning-Unconditional-Uncertainty-of-Large-Language-Models)
    1775. [Chinese Toxic Language Mitigation via Sentiment Polarity Consistent Rewrites](emnlp_src/EMNLP_2025_Main_Papers_Part_60.md#Chinese-Toxic-Language-Mitigation-via-Sentiment-Polarity-Consistent-Rewrites)
    1776. [A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection inLLMOutputs](emnlp_src/EMNLP_2025_Main_Papers_Part_60.md#A-Head-to-Predict-and-a-Head-to-Question-Pre-trained-Uncertainty-Quantification-Heads-for-Hallucination-Detection-inLLMOutputs)
+
