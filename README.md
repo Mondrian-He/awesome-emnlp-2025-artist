@@ -7,8 +7,6 @@
 > This project repository contains the long papers from EMNLP 2025. Each paper’s framework diagrams, experimental figures, and other visuals are extracted to study their presentation techniques. Since the content is extensive and a single Markdown file cannot render everything reliably, **we split it into fifty separate Markdown files**, each covering approximately thirty-two papers. The following section indexes where each paper is located😁😁. Hope we can make progress together!
 ---
 
-# EMNLP 2025 Main Papers - Master Index
-
 ## 📚 Complete Paper Index
 
 Total Papers: 1776
