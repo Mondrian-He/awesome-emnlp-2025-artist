@@ -1,0 +1,338 @@
+# EMNLP 2025 Main Conference Papers
+
+**Summary:** 6 papers with extracted content:
+- 📊 Total images: 14618
+- 📋 Total tables: 17648
+- 📄 Total files: 32266
+
+*Note: Equations have been filtered out and are not included.*
+
+---
+
+# EMNLP 2025 Main Papers - Part 60 of 60
+
+## 目录 (Table of Contents)
+
+1. [Training compute-optimal transformer encoder models](#Training-compute-optimal-transformer-encoder-models)
+2. [Mind the Blind Spots: A Focus-Level Evaluation Framework forLLMReviews](#Mind-the-Blind-Spots-A-Focus-Level-Evaluation-Framework-forLLMReviews)
+3. [Seeing Through Words, Speaking Through Pixels: Deep Representational Alignment Between Vision and Language Models](#Seeing-Through-Words-Speaking-Through-Pixels-Deep-Representational-Alignment-Between-Vision-and-Language-Models)
+4. [Unconditional Truthfulness: Learning Unconditional Uncertainty of Large Language Models](#Unconditional-Truthfulness-Learning-Unconditional-Uncertainty-of-Large-Language-Models)
+5. [Chinese Toxic Language Mitigation via Sentiment Polarity Consistent Rewrites](#Chinese-Toxic-Language-Mitigation-via-Sentiment-Polarity-Consistent-Rewrites)
+6. [A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection inLLMOutputs](#A-Head-to-Predict-and-a-Head-to-Question-Pre-trained-Uncertainty-Quantification-Heads-for-Hallucination-Detection-inLLMOutputs)
+
+---
+
+
+## Training compute-optimal transformer encoder models
+
+### Images
+
+![c723823da18447195b9127b5ac834101119bd400d24b4c8360d78fd5d769a5cf.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/images/c723823da18447195b9127b5ac834101119bd400d24b4c8360d78fd5d769a5cf.jpg)
+
+![e1f33717e1deb425b30be4b314e2ba3d12594a4542e2a03328969d47e5c594e2.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/images/e1f33717e1deb425b30be4b314e2ba3d12594a4542e2a03328969d47e5c594e2.jpg)
+
+![ea6a82a5ac8324e9692b226e5b71fed4db75bd8ff87077acdcdf81877644ac17.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/images/ea6a82a5ac8324e9692b226e5b71fed4db75bd8ff87077acdcdf81877644ac17.jpg)
+
+![f3b34248030e40d4972d79e336a2475be118f31c6c48c68768e832a134d6bfb4.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/images/f3b34248030e40d4972d79e336a2475be118f31c6c48c68768e832a134d6bfb4.jpg)
+
+![fca441424133a136540de0120611b9350eeb621315242eecf80e4fe8a3e054b3.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/images/fca441424133a136540de0120611b9350eeb621315242eecf80e4fe8a3e054b3.jpg)
+
+### Tables
+
+![16d68fbc7fc3bbc28422be87a3323e2769cad3c783acfabeb5045816f50ecfb2.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/16d68fbc7fc3bbc28422be87a3323e2769cad3c783acfabeb5045816f50ecfb2.jpg)
+
+![3dedb49788b791779c39dbbb5da5e7d2f5e6797a43e76fd48e6a61a6508d52dc.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/3dedb49788b791779c39dbbb5da5e7d2f5e6797a43e76fd48e6a61a6508d52dc.jpg)
+
+![4b30bf92a2486fc160908650cc9ba89f90ab70998d83ab4ed59f230e4fffbfda.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/4b30bf92a2486fc160908650cc9ba89f90ab70998d83ab4ed59f230e4fffbfda.jpg)
+
+![4e579b9261ba79708472e5805fdda4ea90c32bd0a1b18172d3fb4a8dea9f0473.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/4e579b9261ba79708472e5805fdda4ea90c32bd0a1b18172d3fb4a8dea9f0473.jpg)
+
+![6a847caad4e91a5e2fbc231bf2ad25f85790ddb2c70fbec69cf630e6204c4377.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/6a847caad4e91a5e2fbc231bf2ad25f85790ddb2c70fbec69cf630e6204c4377.jpg)
+
+![8db6a1a9575e39a536e0de85b3a524a1ea2221ac0aeb8262d5be2009d8ee06ed.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/8db6a1a9575e39a536e0de85b3a524a1ea2221ac0aeb8262d5be2009d8ee06ed.jpg)
+
+![c6cf13c34d8742bfa28e3710bb8611777245b6daa87eaceca41c30c09e115236.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/c6cf13c34d8742bfa28e3710bb8611777245b6daa87eaceca41c30c09e115236.jpg)
+
+![c8ee418189540a8425da5b31356cc6d7f063ff158984de4816fe723a60c2bf95.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/c8ee418189540a8425da5b31356cc6d7f063ff158984de4816fe723a60c2bf95.jpg)
+
+![d7dcbf43158b958c1b02f14a1351a9cef98c4bc977970def53a8b5930f2bb3f1.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/d7dcbf43158b958c1b02f14a1351a9cef98c4bc977970def53a8b5930f2bb3f1.jpg)
+
+![dc9579016716eab066dd767ba1ca6715f99f6044d06144b7665607bd4cf7402a.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/dc9579016716eab066dd767ba1ca6715f99f6044d06144b7665607bd4cf7402a.jpg)
+
+![e93d5c9b5e57e459cdfa528154a4ecf7c70b0acec28d1b8362b56775d5b90fa4.jpg](../emnlp_results/1803_Which%20Word%20Orders%20Facilitate%20Length%20Generalization%20inLMs_%20An%20Investigation%20withGCG-Based%20Artificial%20/tables/e93d5c9b5e57e459cdfa528154a4ecf7c70b0acec28d1b8362b56775d5b90fa4.jpg)
+
+## Training compute-optimal transformer encoder models
+
+
+### Images
+
+![2af00dbd498809f63b016f2efdef9c2bc11ad0b9b90818d608dff95f9c02ff27.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/images/2af00dbd498809f63b016f2efdef9c2bc11ad0b9b90818d608dff95f9c02ff27.jpg)
+
+![49165e4dc916c46af5ba637731071c8a95690a3ce1420249d73b8ea6c3c0a6b2.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/images/49165e4dc916c46af5ba637731071c8a95690a3ce1420249d73b8ea6c3c0a6b2.jpg)
+
+![61f4c0147343dddb0fdc5d1dc03a1c63fa24706f0e31aba5a7f82021bab757db.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/images/61f4c0147343dddb0fdc5d1dc03a1c63fa24706f0e31aba5a7f82021bab757db.jpg)
+
+![6e6e7bd9e7cb751c29ade726639cdb18178fd3fd98bae2ed571cbb66cd066436.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/images/6e6e7bd9e7cb751c29ade726639cdb18178fd3fd98bae2ed571cbb66cd066436.jpg)
+
+![a946c39b11b47a1cdd7926804f913f3f30e4cfd3a4cb1bfc3209ab18454984ee.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/images/a946c39b11b47a1cdd7926804f913f3f30e4cfd3a4cb1bfc3209ab18454984ee.jpg)
+
+![b71a2d59c4d3cd6fa96fa166cbdd58fc46c33a45196d35150a9cd7ac7a75a52a.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/images/b71a2d59c4d3cd6fa96fa166cbdd58fc46c33a45196d35150a9cd7ac7a75a52a.jpg)
+
+![dae9cf07afd021074fa398b84289ad64bfbc65f252b23c61cf072b66b47a6e8f.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/images/dae9cf07afd021074fa398b84289ad64bfbc65f252b23c61cf072b66b47a6e8f.jpg)
+
+![f25e3809895b0188c5c9c0591f56dff336407bd365b928163f469b1e594f1228.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/images/f25e3809895b0188c5c9c0591f56dff336407bd365b928163f469b1e594f1228.jpg)
+
+### Tables
+
+![2b21dcc7a0b0082717a63b44e318a26f52b84c040bff99f54e0a9f0a6f6bdca8.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/tables/2b21dcc7a0b0082717a63b44e318a26f52b84c040bff99f54e0a9f0a6f6bdca8.jpg)
+
+![5b7e5f95edccd372ee9c5392debdbc20ea649e5aa5835efa7ca95c6a6388ea12.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/tables/5b7e5f95edccd372ee9c5392debdbc20ea649e5aa5835efa7ca95c6a6388ea12.jpg)
+
+![99c99c7f66216839ede2e98a33d3b55ca52ecbd1a6eb342189bcbcfe31c579b9.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/tables/99c99c7f66216839ede2e98a33d3b55ca52ecbd1a6eb342189bcbcfe31c579b9.jpg)
+
+![be2ab9b6049fe9e88899293d7a41affbd2b2255b6e5d85611af499424c894274.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/tables/be2ab9b6049fe9e88899293d7a41affbd2b2255b6e5d85611af499424c894274.jpg)
+
+![c231bb2bbbc27add13a7a619425ebf8058fd80ebcdcd6e329fe74572741f4ff0.jpg](../emnlp_results/1804_Training%20compute-optimal%20transformer%20encoder%20models/tables/c231bb2bbbc27add13a7a619425ebf8058fd80ebcdcd6e329fe74572741f4ff0.jpg)
+
+## Mind the Blind Spots: A Focus-Level Evaluation Framework forLLMReviews
+
+
+### Images
+
+![1ea30feeae4dc752f070c9bc63d90ac1ab1e4d7095173fb9f998c3771e61c52d.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/1ea30feeae4dc752f070c9bc63d90ac1ab1e4d7095173fb9f998c3771e61c52d.jpg)
+
+![2f8af820aa347d259dce3044b8ee22f73e71e17b0d2af46b8f767c65720bc2db.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/2f8af820aa347d259dce3044b8ee22f73e71e17b0d2af46b8f767c65720bc2db.jpg)
+
+![32929a149d4bda1c17b4a3a43ec20a7d03146d88b5034d34a834a8921ab9d717.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/32929a149d4bda1c17b4a3a43ec20a7d03146d88b5034d34a834a8921ab9d717.jpg)
+
+![40f60187c250d8237b7d198f2a42d444b91a4621757b0ec2a40fb8eaf0acfcfc.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/40f60187c250d8237b7d198f2a42d444b91a4621757b0ec2a40fb8eaf0acfcfc.jpg)
+
+![47b3e4960f1d63a4110c9dc48375b67bb9b3490ca8cd9f43a94cdc3dd553f619.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/47b3e4960f1d63a4110c9dc48375b67bb9b3490ca8cd9f43a94cdc3dd553f619.jpg)
+
+![7042856ee92b8d0fef22cbc98f8fbfa8b923f241443b7f7dce0827e23a47b6ea.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/7042856ee92b8d0fef22cbc98f8fbfa8b923f241443b7f7dce0827e23a47b6ea.jpg)
+
+![73988c24bb13aeeb91c4ccc68a85b075448b7033c9ee60e70c79b77c1bd1f7c5.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/73988c24bb13aeeb91c4ccc68a85b075448b7033c9ee60e70c79b77c1bd1f7c5.jpg)
+
+![97571acfa54224861c96e161a314a6ecc21114f8529d00b47d6d893335edda84.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/97571acfa54224861c96e161a314a6ecc21114f8529d00b47d6d893335edda84.jpg)
+
+![c3a434452a9468606316402099bb2fda651aef00ea5d04b9943e5154f7f84a5e.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/c3a434452a9468606316402099bb2fda651aef00ea5d04b9943e5154f7f84a5e.jpg)
+
+![c4b79aa20d3b91c87aa6a76d76c577f3e793b8427e7a56840df7c0e095b38c48.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/c4b79aa20d3b91c87aa6a76d76c577f3e793b8427e7a56840df7c0e095b38c48.jpg)
+
+![c62377a600c642df6466884ce3f5843153dbea25fe547bfc8f9a4a744e475226.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/c62377a600c642df6466884ce3f5843153dbea25fe547bfc8f9a4a744e475226.jpg)
+
+![c8f87a15fc0997384c31fa1546a1174c6d3857118eec87080afe98f6f5c39a13.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/images/c8f87a15fc0997384c31fa1546a1174c6d3857118eec87080afe98f6f5c39a13.jpg)
+
+### Tables
+
+![06c188b9e51b608b580c87be45d56f7990d7179733d3a9151e0901e61053b9fe.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/06c188b9e51b608b580c87be45d56f7990d7179733d3a9151e0901e61053b9fe.jpg)
+
+![0b4207018938cf0e2d8ede31b3f00caea3888054ce3be97d7c5e3cae90fc633a.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/0b4207018938cf0e2d8ede31b3f00caea3888054ce3be97d7c5e3cae90fc633a.jpg)
+
+![39867917c2fc208a7999082512bf49eb940192c6159c119b1ae70f09b6f117d8.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/39867917c2fc208a7999082512bf49eb940192c6159c119b1ae70f09b6f117d8.jpg)
+
+![4534734c6da10dc296a702b06346d09df58638fb91be2a8e73628ed296343544.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/4534734c6da10dc296a702b06346d09df58638fb91be2a8e73628ed296343544.jpg)
+
+![4c3b783594ea8a8c734dbc38eb1a068bbd0c25528bb221543f2b022694d24e2b.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/4c3b783594ea8a8c734dbc38eb1a068bbd0c25528bb221543f2b022694d24e2b.jpg)
+
+![56f8438e128917da1926426c83b36604d147ded0ebcffbfe4b040b608870d770.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/56f8438e128917da1926426c83b36604d147ded0ebcffbfe4b040b608870d770.jpg)
+
+![95abf5ecc8eacabb56ed1fd043884313623a28c2d86c975447a2edd7373d0781.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/95abf5ecc8eacabb56ed1fd043884313623a28c2d86c975447a2edd7373d0781.jpg)
+
+![ae8ad44ca68d75ad35ad7f22e83aa05f86957911d1ba24a33ed7f9d69e99f14b.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/ae8ad44ca68d75ad35ad7f22e83aa05f86957911d1ba24a33ed7f9d69e99f14b.jpg)
+
+![b7e026b32a74e618bbbad71b60984a2da60e441de1a09fa660fd30fe20b769e3.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/b7e026b32a74e618bbbad71b60984a2da60e441de1a09fa660fd30fe20b769e3.jpg)
+
+![bea02027a8445a9e666ec7dcc513818de398ddccdd4e34d6f4205f68d37a91b9.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/bea02027a8445a9e666ec7dcc513818de398ddccdd4e34d6f4205f68d37a91b9.jpg)
+
+![c71032fc6b928436a3a4b3a55add8f349eabe6f29791127ae1c10060fed67304.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/c71032fc6b928436a3a4b3a55add8f349eabe6f29791127ae1c10060fed67304.jpg)
+
+![dd58c65965a8e403a15fcff0fe11dc71e4bc26c267e837c964c43bcf90d38010.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/dd58c65965a8e403a15fcff0fe11dc71e4bc26c267e837c964c43bcf90d38010.jpg)
+
+![dead9d41c8293d6520d1cac97608bfbd390d744c89e80acf7230eb6183b9e610.jpg](../emnlp_results/1805_Mind%20the%20Blind%20Spots_%20A%20Focus-Level%20Evaluation%20Framework%20forLLMReviews/tables/dead9d41c8293d6520d1cac97608bfbd390d744c89e80acf7230eb6183b9e610.jpg)
+
+## Seeing Through Words, Speaking Through Pixels: Deep Representational Alignment Between Vision and Language Models
+
+
+### Images
+
+![057a98b919ca4e1f073de5a6cddbb60f0237b724b37b41e9106d03bb3c39cb6e.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/057a98b919ca4e1f073de5a6cddbb60f0237b724b37b41e9106d03bb3c39cb6e.jpg)
+
+![127515f798aba96d50c38c76d25ab6aad57707826005fd69ee7a9b4a91b7f803.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/127515f798aba96d50c38c76d25ab6aad57707826005fd69ee7a9b4a91b7f803.jpg)
+
+![1aba5f7ee1ce13a86ec3376ec4be6d60c5e4ebed561016c218329a7803f82c98.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/1aba5f7ee1ce13a86ec3376ec4be6d60c5e4ebed561016c218329a7803f82c98.jpg)
+
+![228398020c2f1051c8fb0680dc14ce3a2a3743368b2cfc7f2a4e56442cdb54cc.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/228398020c2f1051c8fb0680dc14ce3a2a3743368b2cfc7f2a4e56442cdb54cc.jpg)
+
+![3017314c342c5a73028eaaba248b88638887f7d7734ed7074553621351548b36.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/3017314c342c5a73028eaaba248b88638887f7d7734ed7074553621351548b36.jpg)
+
+![36343a77acfa0ce9c11ce7cf8380c87b380eb207a2f646a0707df3ff133209bc.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/36343a77acfa0ce9c11ce7cf8380c87b380eb207a2f646a0707df3ff133209bc.jpg)
+
+![78bbba824e1835b93a29346ba1c7b11201e8d2959542de5e05c881f010a5acac.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/78bbba824e1835b93a29346ba1c7b11201e8d2959542de5e05c881f010a5acac.jpg)
+
+![83f454d9b2add6b3bd24e52934dbba16c07959cd624b63a65cacc656596278a9.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/83f454d9b2add6b3bd24e52934dbba16c07959cd624b63a65cacc656596278a9.jpg)
+
+![8a783fda302728677cad7ba3a09df71d5b4015b1ae487d43f5dbd42aaf68eefd.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/8a783fda302728677cad7ba3a09df71d5b4015b1ae487d43f5dbd42aaf68eefd.jpg)
+
+![a37565737fa7343e26e3ec6aa8642877fcca1ee94cb2aaccd447dabed03d78c5.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/a37565737fa7343e26e3ec6aa8642877fcca1ee94cb2aaccd447dabed03d78c5.jpg)
+
+![c1ab270b308e725306395a91ecf7944a388167db61fcb7a9de4ce90b2dc2280e.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/c1ab270b308e725306395a91ecf7944a388167db61fcb7a9de4ce90b2dc2280e.jpg)
+
+![c321bfd581539dfc1a955964f73d32c483e127689ab5ab1bc9dfa1ebc4e397e5.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/c321bfd581539dfc1a955964f73d32c483e127689ab5ab1bc9dfa1ebc4e397e5.jpg)
+
+![da26ebeb9dc70ee4fbe8585054bf9c780c436020c92838f85d582024d2b90e86.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/da26ebeb9dc70ee4fbe8585054bf9c780c436020c92838f85d582024d2b90e86.jpg)
+
+![dc03c365fe1539b898ca30b5968811f1d9debd22d8f0cbc506c0415628b8bc72.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/dc03c365fe1539b898ca30b5968811f1d9debd22d8f0cbc506c0415628b8bc72.jpg)
+
+![e0a9426ae74aa3bcfaeadad3342821b880387d5b41374f2a1ba93d31ff299316.jpg](../emnlp_results/1806_Seeing%20Through%20Words%2C%20Speaking%20Through%20Pixels_%20Deep%20Representational%20Alignment%20Between%20Vision%20and%20La/images/e0a9426ae74aa3bcfaeadad3342821b880387d5b41374f2a1ba93d31ff299316.jpg)
+
+## Unconditional Truthfulness: Learning Unconditional Uncertainty of Large Language Models
+
+
+### Images
+
+![1d8ffb82390d6f0366dd1ebd8b702ee16b4935cb1b69ab110dad4c03d5c9df23.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/images/1d8ffb82390d6f0366dd1ebd8b702ee16b4935cb1b69ab110dad4c03d5c9df23.jpg)
+
+![5182cbfdd39e3da7e9288813a4f09d4850592152b1890da303ab5749520c9172.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/images/5182cbfdd39e3da7e9288813a4f09d4850592152b1890da303ab5749520c9172.jpg)
+
+![5e26a9e793c6ab351d77d91785ca272259cce40ead98a798865aa3c60fade3aa.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/images/5e26a9e793c6ab351d77d91785ca272259cce40ead98a798865aa3c60fade3aa.jpg)
+
+![c6486245c286818837eccbb09a704375bf03e48ca2605b9d154be9a6848378d3.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/images/c6486245c286818837eccbb09a704375bf03e48ca2605b9d154be9a6848378d3.jpg)
+
+### Tables
+
+![18b51ba6c0e79e6e067f4bb0d6cb24ee2eb8757c2804167bf24d55fca25b8df1.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/18b51ba6c0e79e6e067f4bb0d6cb24ee2eb8757c2804167bf24d55fca25b8df1.jpg)
+
+![1d8f5edb8629bff37fed659187142f1727f20dc3643cee8997cce9b2deb84a5b.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/1d8f5edb8629bff37fed659187142f1727f20dc3643cee8997cce9b2deb84a5b.jpg)
+
+![2c90a0b9b87d5f2a0a312cbb49569a25ad70c5b258b13716a1f5ba16421391e8.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/2c90a0b9b87d5f2a0a312cbb49569a25ad70c5b258b13716a1f5ba16421391e8.jpg)
+
+![3fdaf02048f4345bb1fea804de2af1ff2ef6bec8782f341ccfe658deeca63a07.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/3fdaf02048f4345bb1fea804de2af1ff2ef6bec8782f341ccfe658deeca63a07.jpg)
+
+![424309187baf81a2eff770c6851b303eaa68ee300e9f06ffa1e346e82a3efd9d.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/424309187baf81a2eff770c6851b303eaa68ee300e9f06ffa1e346e82a3efd9d.jpg)
+
+![469f1b8de51fee14c49f1c9479c899d1060e72f13d501f89d08c45b16d41de48.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/469f1b8de51fee14c49f1c9479c899d1060e72f13d501f89d08c45b16d41de48.jpg)
+
+![579f940aca1f77b243cf91076677c88cae76e3ab990981f52a2ce8f6febfccfc.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/579f940aca1f77b243cf91076677c88cae76e3ab990981f52a2ce8f6febfccfc.jpg)
+
+![7004f4c02f5973a63104b4d48d4f683f2a7c51330656713dba30a088a2517668.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/7004f4c02f5973a63104b4d48d4f683f2a7c51330656713dba30a088a2517668.jpg)
+
+![721b95ef2e6012b6ac3011438aead603a69352e72435a08fdaa03f0fc1034538.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/721b95ef2e6012b6ac3011438aead603a69352e72435a08fdaa03f0fc1034538.jpg)
+
+![88df740937eeaecbe42252c9bbc26280fd4e76b0b9df5e9e2cd6e59b5be148f2.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/88df740937eeaecbe42252c9bbc26280fd4e76b0b9df5e9e2cd6e59b5be148f2.jpg)
+
+![932a8554e49c334967919293b7f7ec5e860320cd65502f56e992856b748b1e10.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/932a8554e49c334967919293b7f7ec5e860320cd65502f56e992856b748b1e10.jpg)
+
+![a7d856c5094b3665028ddb5c63fd8d3d507267175575753ce83ed341d9c431e4.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/a7d856c5094b3665028ddb5c63fd8d3d507267175575753ce83ed341d9c431e4.jpg)
+
+![b1ccdb0cfc6d9600cecfd917250008c5fae10575d3811343708becfbea921ebc.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/b1ccdb0cfc6d9600cecfd917250008c5fae10575d3811343708becfbea921ebc.jpg)
+
+![c44d9f9fff5ea28ca1a856e087ddfa85dd753656bda10942f609e85aad659d51.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/c44d9f9fff5ea28ca1a856e087ddfa85dd753656bda10942f609e85aad659d51.jpg)
+
+![c53e322ab5fd9f04c1ff326b1b5457922c56736f80ea097bf3a3128390986084.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/c53e322ab5fd9f04c1ff326b1b5457922c56736f80ea097bf3a3128390986084.jpg)
+
+![d8f1724cb795dfca0c88b5855547cdfd205282a75f5968b7266dba08913c89e9.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/d8f1724cb795dfca0c88b5855547cdfd205282a75f5968b7266dba08913c89e9.jpg)
+
+![dc95c168170039811e8f0ee36785bfdfc9d5ad012a9296339010c390a29f2f04.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/dc95c168170039811e8f0ee36785bfdfc9d5ad012a9296339010c390a29f2f04.jpg)
+
+![eafd9dbc944e288692f083ee141cc54bd5fdd526c8526f41c957dd6e98811b94.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/eafd9dbc944e288692f083ee141cc54bd5fdd526c8526f41c957dd6e98811b94.jpg)
+
+![f9c6dc2b549acecd2e76454cba6acb000c834ca0d122073eaedb9414752a82ea.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/f9c6dc2b549acecd2e76454cba6acb000c834ca0d122073eaedb9414752a82ea.jpg)
+
+![fc1d2471517acac26e7ae0320f8bc1afce133c031b7d8a643851daad93f3db12.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/fc1d2471517acac26e7ae0320f8bc1afce133c031b7d8a643851daad93f3db12.jpg)
+
+![fe5af0b21d355a67650e938120c045ce45251e4a3527f108fd18588c173324d3.jpg](../emnlp_results/1807_Unconditional%20Truthfulness_%20Learning%20Unconditional%20Uncertainty%20of%20Large%20Language%20Models/tables/fe5af0b21d355a67650e938120c045ce45251e4a3527f108fd18588c173324d3.jpg)
+
+## Chinese Toxic Language Mitigation via Sentiment Polarity Consistent Rewrites
+
+
+### Images
+
+![111f9b6689570ddc3243547df88484c0f675504ff9bfb75e5c15deffda3d8d83.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/images/111f9b6689570ddc3243547df88484c0f675504ff9bfb75e5c15deffda3d8d83.jpg)
+
+![228bbb2866dd43b24ecc87be74b6cb6d299134c89a8191debd3d5e4efe0d112f.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/images/228bbb2866dd43b24ecc87be74b6cb6d299134c89a8191debd3d5e4efe0d112f.jpg)
+
+![2ebeedc8a7bd00c2e3ec3b3f42ddda6256344e077a255696e5e7912c92a7f4d8.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/images/2ebeedc8a7bd00c2e3ec3b3f42ddda6256344e077a255696e5e7912c92a7f4d8.jpg)
+
+![4dcf9cc8fb5cc708210a3044b28a7d0454e5f2ba0687b25324fc62f9374e14c1.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/images/4dcf9cc8fb5cc708210a3044b28a7d0454e5f2ba0687b25324fc62f9374e14c1.jpg)
+
+![51a9eb008e67afa3f5200253fddb927f08f01326dc040ac6f8de9cff9f44ad4b.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/images/51a9eb008e67afa3f5200253fddb927f08f01326dc040ac6f8de9cff9f44ad4b.jpg)
+
+![581434e1eae219044698283302e6f54e6abcb1447d0295ed57de76dd3312e458.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/images/581434e1eae219044698283302e6f54e6abcb1447d0295ed57de76dd3312e458.jpg)
+
+![8447bb8fec37b9acdf3b57bdaef1070336fa5b9c0b28f585d908f5154802c0ef.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/images/8447bb8fec37b9acdf3b57bdaef1070336fa5b9c0b28f585d908f5154802c0ef.jpg)
+
+![c676b302a08c8d2053f2b2457e69fdeb0a3356ce556a671835c7c8d835e66f7a.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/images/c676b302a08c8d2053f2b2457e69fdeb0a3356ce556a671835c7c8d835e66f7a.jpg)
+
+### Tables
+
+![04aa1364620b8361745773604628ac2f3e51364b81da11ca2634553d06457abf.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/04aa1364620b8361745773604628ac2f3e51364b81da11ca2634553d06457abf.jpg)
+
+![06f144858ccf9e7a9d6fc0d5902bd927dd48c9a939b9ce732f6341eb295ad271.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/06f144858ccf9e7a9d6fc0d5902bd927dd48c9a939b9ce732f6341eb295ad271.jpg)
+
+![35c9c4525ded9f2f21c42c6b95be7d7b6b20d68556fc6ec1d37e35b10ed80bdd.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/35c9c4525ded9f2f21c42c6b95be7d7b6b20d68556fc6ec1d37e35b10ed80bdd.jpg)
+
+![43ed11ad94a1b7a41ef84639a024dfc198f106a1bfe3f4c02e31536a60c8bb0f.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/43ed11ad94a1b7a41ef84639a024dfc198f106a1bfe3f4c02e31536a60c8bb0f.jpg)
+
+![688e0f66e11cc1c4c790de3e6ba1a6437c75f277ebe5684aee6457c403f60898.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/688e0f66e11cc1c4c790de3e6ba1a6437c75f277ebe5684aee6457c403f60898.jpg)
+
+![6de3039e40160b39b50b31e68f24c33b6b2a20da95d151a72951dfc0bc16b560.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/6de3039e40160b39b50b31e68f24c33b6b2a20da95d151a72951dfc0bc16b560.jpg)
+
+![7fe9244bf40e3a7bd9fa2fc22c87d15d11279bf3e93507f51f1c42bc40ac68a7.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/7fe9244bf40e3a7bd9fa2fc22c87d15d11279bf3e93507f51f1c42bc40ac68a7.jpg)
+
+![8c00e4a2ab0bc845206069f415711eb5000a68b1e39bd4d01a3396c4ba450058.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/8c00e4a2ab0bc845206069f415711eb5000a68b1e39bd4d01a3396c4ba450058.jpg)
+
+![b20728cd3464e09afcd30c47539b95ba2c54b4c61d3e506780110c7f4d2df211.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/b20728cd3464e09afcd30c47539b95ba2c54b4c61d3e506780110c7f4d2df211.jpg)
+
+![bee9fd1c8e53661ce0236b3137a91e0d9e9b057431315475a55c9f858d3734ae.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/bee9fd1c8e53661ce0236b3137a91e0d9e9b057431315475a55c9f858d3734ae.jpg)
+
+![fc53c2065e938a03b0b9c0a657cf4185e242d440f6e038e519f795856d6f08fe.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/fc53c2065e938a03b0b9c0a657cf4185e242d440f6e038e519f795856d6f08fe.jpg)
+
+![ffe26d33c49a7d3f255cd258f8f6b3e8a7c85fb3bed81bff19e1e8d7c802db31.jpg](../emnlp_results/1808_Chinese%20Toxic%20Language%20Mitigation%20via%20Sentiment%20Polarity%20Consistent%20Rewrites/tables/ffe26d33c49a7d3f255cd258f8f6b3e8a7c85fb3bed81bff19e1e8d7c802db31.jpg)
+
+## A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection inLLMOutputs
+
+
+### Images
+
+![096ded1ebf9d124b3c5db3af3495faad097742bb912814c001814fcdf2e20d99.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/images/096ded1ebf9d124b3c5db3af3495faad097742bb912814c001814fcdf2e20d99.jpg)
+
+![50d5621fe310f0f270bc63801a3c4c9bc1b9aae0bfbb390949b9968e7824325f.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/images/50d5621fe310f0f270bc63801a3c4c9bc1b9aae0bfbb390949b9968e7824325f.jpg)
+
+![57255b4cfa2ad1f912600fefca6ce7aea7d66c1af0eda2207f3feeed579278eb.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/images/57255b4cfa2ad1f912600fefca6ce7aea7d66c1af0eda2207f3feeed579278eb.jpg)
+
+![5d6fa876219bb81279f687a14b18b94a194b682648642e4b92cc3f85e508812a.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/images/5d6fa876219bb81279f687a14b18b94a194b682648642e4b92cc3f85e508812a.jpg)
+
+![d3337c6d9d1eea7ee29c897fecb3cfe8c7392dfe9b0d99f2b8dcec996c089404.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/images/d3337c6d9d1eea7ee29c897fecb3cfe8c7392dfe9b0d99f2b8dcec996c089404.jpg)
+
+![fec958cebc37d541055506521c18ca18d012ac7c4b18a0d99668126d2c624e9a.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/images/fec958cebc37d541055506521c18ca18d012ac7c4b18a0d99668126d2c624e9a.jpg)
+
+### Tables
+
+![062beeb4f9afb0e72dfdd9e734535075ca311be21f39c1f76fab9560dc58ecdd.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/062beeb4f9afb0e72dfdd9e734535075ca311be21f39c1f76fab9560dc58ecdd.jpg)
+
+![094919a4679376ba4de4b21038d6c5e1f2bffa7bf2134306b0aab21104bb5409.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/094919a4679376ba4de4b21038d6c5e1f2bffa7bf2134306b0aab21104bb5409.jpg)
+
+![1bfce58526e82d13dd923682fa6995df66083f9aa500e79f19c97a2562d037f5.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/1bfce58526e82d13dd923682fa6995df66083f9aa500e79f19c97a2562d037f5.jpg)
+
+![30159f6aed949931cd6b191fcd75b9092c3e5d3eaf17c8374ea03a9ec4c780d3.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/30159f6aed949931cd6b191fcd75b9092c3e5d3eaf17c8374ea03a9ec4c780d3.jpg)
+
+![35434aa15dbc2c4137fcc643441fb71b171eedd7a07285c9c8bb588bc65457f2.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/35434aa15dbc2c4137fcc643441fb71b171eedd7a07285c9c8bb588bc65457f2.jpg)
+
+![721162dd50eb859bf613efeb4778c215c32bcb041ead393e2d3ff3f444afc2d8.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/721162dd50eb859bf613efeb4778c215c32bcb041ead393e2d3ff3f444afc2d8.jpg)
+
+![7d758434013996ecf3e3e47e051ae091a21c41752478ffcbd5359bb336a5bc62.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/7d758434013996ecf3e3e47e051ae091a21c41752478ffcbd5359bb336a5bc62.jpg)
+
+![7e0bcbeca119166fd1092e989ab763cf616414bc0238ac332a049de0d017e5ad.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/7e0bcbeca119166fd1092e989ab763cf616414bc0238ac332a049de0d017e5ad.jpg)
+
+![8b3d0d179ca78526acbc1bd0f1be60bddb87f64829dea8d4744a838eb1099c53.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/8b3d0d179ca78526acbc1bd0f1be60bddb87f64829dea8d4744a838eb1099c53.jpg)
+
+![a5c5ded9fa28c43884cdd91dda024ebdbd0cfa40dce861e56399a56ee8950059.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/a5c5ded9fa28c43884cdd91dda024ebdbd0cfa40dce861e56399a56ee8950059.jpg)
+
+![c20e3cb510cc482cf2fdaf099a7f0978b57d746c0141c6cbb49f71b2a276d752.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/c20e3cb510cc482cf2fdaf099a7f0978b57d746c0141c6cbb49f71b2a276d752.jpg)
+
+![dc35185d7ac3a4696be51c3f8027bbb238f3cbc844d2e40e4f385d255131e824.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/dc35185d7ac3a4696be51c3f8027bbb238f3cbc844d2e40e4f385d255131e824.jpg)
+
+![dcadb34a608aaa6549d3fd2c84ed01ef327489b45ac6d105701072ce4570b759.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/dcadb34a608aaa6549d3fd2c84ed01ef327489b45ac6d105701072ce4570b759.jpg)
+
+![fa00ee91e99401b080fb60a1b8e278abd1bade83670d027046000aa8c51c3fa1.jpg](../emnlp_results/1809_A%20Head%20to%20Predict%20and%20a%20Head%20to%20Question_%20Pre-trained%20Uncertainty%20Quantification%20Heads%20for%20Hallucina/tables/fa00ee91e99401b080fb60a1b8e278abd1bade83670d027046000aa8c51c3fa1.jpg)
