@@ -16,67 +16,14 @@ Split into 60 parts for better browsing
 
 ### 📖 Parts Summary
 
-- **Part 1**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_1.md)
-- **Part 2**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_2.md)
-- **Part 3**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_3.md)
-- **Part 4**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_4.md)
-- **Part 5**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_5.md)
-- **Part 6**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_6.md)
-- **Part 7**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_7.md)
-- **Part 8**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_8.md)
-- **Part 9**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_9.md)
-- **Part 10**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_10.md)
-- **Part 11**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_11.md)
-- **Part 12**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_12.md)
-- **Part 13**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_13.md)
-- **Part 14**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_14.md)
-- **Part 15**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_15.md)
-- **Part 16**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_16.md)
-- **Part 17**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_17.md)
-- **Part 18**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_18.md)
-- **Part 19**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_19.md)
-- **Part 20**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_20.md)
-- **Part 21**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_21.md)
-- **Part 22**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_22.md)
-- **Part 23**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_23.md)
-- **Part 24**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_24.md)
-- **Part 25**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_25.md)
-- **Part 26**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_26.md)
-- **Part 27**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_27.md)
-- **Part 28**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_28.md)
-- **Part 29**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_29.md)
-- **Part 30**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_30.md)
-- **Part 31**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_31.md)
-- **Part 32**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_32.md)
-- **Part 33**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_33.md)
-- **Part 34**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_34.md)
-- **Part 35**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_35.md)
-- **Part 36**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_36.md)
-- **Part 37**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_37.md)
-- **Part 38**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_38.md)
-- **Part 39**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_39.md)
-- **Part 40**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_40.md)
-- **Part 41**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_41.md)
-- **Part 42**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_42.md)
-- **Part 43**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_43.md)
-- **Part 44**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_44.md)
-- **Part 45**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_45.md)
-- **Part 46**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_46.md)
-- **Part 47**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_47.md)
-- **Part 48**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_48.md)
-- **Part 49**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_49.md)
-- **Part 50**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_50.md)
-- **Part 51**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_51.md)
-- **Part 52**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_52.md)
-- **Part 53**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_53.md)
-- **Part 54**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_54.md)
-- **Part 55**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_55.md)
-- **Part 56**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_56.md)
-- **Part 57**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_57.md)
-- **Part 58**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_58.md)
-- **Part 59**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_59.md)
-- **Part 60**: [6 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_60.md)
-
+| column1 | column2 | column3 | column4 | column5 | column6 | column7 | column8 | column9 | column10 |
+|---|---|---|---|---|---|---|---|---|---|
+| **Part 1**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_1.md) | **Part 2**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_2.md) | **Part 3**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_3.md) | **Part 4**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_4.md) | **Part 5**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_5.md) | **Part 6**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_6.md) | **Part 7**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_7.md) | **Part 8**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_8.md) | **Part 9**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_9.md) | **Part 10**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_10.md) |
+| **Part 11**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_11.md) | **Part 12**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_12.md) | **Part 13**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_13.md) | **Part 14**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_14.md) | **Part 15**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_15.md) | **Part 16**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_16.md) | **Part 17**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_17.md) | **Part 18**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_18.md) | **Part 19**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_19.md) | **Part 20**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_20.md) |
+| **Part 21**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_21.md) | **Part 22**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_22.md) | **Part 23**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_23.md) | **Part 24**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_24.md) | **Part 25**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_25.md) | **Part 26**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_26.md) | **Part 27**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_27.md) | **Part 28**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_28.md) | **Part 29**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_29.md) | **Part 30**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_30.md) |
+| **Part 31**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_31.md) | **Part 32**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_32.md) | **Part 33**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_33.md) | **Part 34**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_34.md) | **Part 35**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_35.md) | **Part 36**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_36.md) | **Part 37**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_37.md) | **Part 38**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_38.md) | **Part 39**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_39.md) | **Part 40**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_40.md) |
+| **Part 41**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_41.md) | **Part 42**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_42.md) | **Part 43**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_43.md) | **Part 44**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_44.md) | **Part 45**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_45.md) | **Part 46**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_46.md) | **Part 47**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_47.md) | **Part 48**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_48.md) | **Part 49**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_49.md) | **Part 50**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_50.md) |
+| **Part 51**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_51.md) | **Part 52**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_52.md) | **Part 53**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_53.md) | **Part 54**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_54.md) | **Part 55**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_55.md) | **Part 56**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_56.md) | **Part 57**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_57.md) | **Part 58**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_58.md) | **Part 59**: [30 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_59.md) | **Part 60**: [6 papers](emnlp_src/EMNLP_2025_Main_Papers_Part_60.md) |
 
 ### 📝 All Papers by Title
 
