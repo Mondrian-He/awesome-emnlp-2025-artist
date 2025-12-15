@@ -2,6 +2,11 @@
 
 <img src="https://img.shields.io/badge/EMNLP 2025-green"> <img src="https://img.shields.io/badge/Artist-purple"> <img src="https://img.shields.io/badge/Long Paper-orange"> <img src="https://img.shields.io/badge/WorkFlow, Framwork, Table, etc.-pink">
 
+>[!important]
+>
+>***If you need to look at other conferences such as NeurIPS, ICLR, ICML, EMNLP, or ACL, you can check out [Awesome-artist](https://github.com/Mondrian-He/Awesome-artist) !!!🤩🤩🤩***
+
+
 > [!note]
 >
 > This project repository contains the long papers from EMNLP 2025. Each paper’s framework diagrams, experimental figures, and other visuals are extracted to study their presentation techniques. Since the content is extensive and a single Markdown file cannot render everything reliably, **we split it into 60 separate Markdown files**, each covering approximately thirty-two papers. The following section indexes where each paper is located😁😁. Hope we can make progress together!!
